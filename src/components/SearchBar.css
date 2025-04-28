@@ -1,0 +1,22 @@
+/* src/components/SearchBar.css */
+.search-bar {
+  display: flex;
+  justify-content: center;
+  margin: 20px 0;
+}
+
+.search-input {
+  padding: 8px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  width: 200px;
+  margin-right: 10px;
+}
+
+.type-select {
+  padding: 8px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
