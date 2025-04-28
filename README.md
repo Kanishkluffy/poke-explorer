@@ -32,4 +32,23 @@ Make sure you have **Node.js** and **npm** installed on your machine.
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/poke-explorer.git
+   git clone https://github.com/Kanishkluffy/poke-explorer.git
+
+2. Navigate into the Project Folder
+
+   ```bash
+   cd poke-explorer
+
+3. Install Dependencies
+
+   ```bash
+   npm install
+
+4. Start the Development Server
+
+   ```bash
+   npm start
+
+
+
+
